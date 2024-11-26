@@ -1,0 +1,8 @@
+# https://storage.googleapis.com/download.tensorflow.org/example_images/flower_photos.tgz
+# dataset_url='https://storage.googleapis.com/download.tensorflow.org/example_images/flower_photos.tgz'
+# response=requests.get(dataset_url)
+# file=tarfile.open(fileobj=BytesIO(response.content),mode='r:gz')
+# file.extractall('data')
+# file
+
+
